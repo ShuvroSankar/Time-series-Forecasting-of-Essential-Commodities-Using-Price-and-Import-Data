@@ -25,7 +25,7 @@ This project develops and evaluates multivariate LSTM, univariate LSTM, and ARIM
 ├── README.md                          # This file
 ├── Integration.ipynb                  # Data cleaning, merging, and preprocessing
 ├── LSTM.ipynb                         # Model training, evaluation, and analysis
-├── data/
+├── Data/
 │   ├── production_data.csv            # FAOSTAT production data (1972–2024)
 │   ├── producer_prices_data.csv       # FAOSTAT producer prices (1991–2024)
 │   ├── import_export_data.csv         # FAOSTAT trade data
